@@ -12,8 +12,10 @@
 </div>
 <br/>
 
-I'm a senior studying Artificial Intelligence and Economics @ Minerva Schools at KGI. 
+I'm a senior studying Artificial Intelligence and Economics @ Minerva University.
 
+- 🚀 Technical PM Intern at Cloudflare
+- 😃 Teaching Assistant at Minerva University.
 - 💬 Please feel free to **contact me** any way you find convenient.
 - 📫 **Email**: batsal.ghi@gmail.com
 </br>
