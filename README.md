@@ -16,5 +16,5 @@ I'm a senior studying Artificial Intelligence and Economics @ Minerva University
 - 🚀 Technical PM Intern at Cloudflare
 - 😃 Teaching Assistant at Minerva University.
 - 💬 Please feel free to **contact me** any way you find convenient.
-- 📫 **Email**: batsal.ghi@gmail.com
+- 📫 **Email**: batsalg@gmail.com
 </br>
